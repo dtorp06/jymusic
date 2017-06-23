@@ -1,0 +1,1 @@
+a:9:{i:0;s:2:"id";i:1;s:4:"name";i:2;s:4:"icon";i:3;s:8:"app_name";i:4;s:7:"is_auth";i:5;s:5:"rules";i:6;s:11:"create_time";s:3:"_pk";s:2:"id";s:5:"_type";a:7:{s:2:"id";s:7:"int(11)";s:4:"name";s:12:"varchar(255)";s:4:"icon";s:12:"varchar(120)";s:8:"app_name";s:11:"varchar(20)";s:7:"is_auth";s:10:"tinyint(1)";s:5:"rules";s:4:"text";s:11:"create_time";s:7:"int(11)";}}
